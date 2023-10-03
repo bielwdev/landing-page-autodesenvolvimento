@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: #ffffff;
+}
+
+body {
+    background-color: #000000;
+}
+
+.hero1 {
+    background: url(../images/hero1bg.jpg);
+    background-repeat: no-repeat;
+    margin: 2.38rem 0rem 7.81rem 10.56rem;
+    width: 109.4375rem;
+    height: 58.75rem;
+    flex-shrink: 0;
+    background-size: cover;
+    box-sizing: border-box;
+}
+
+.hero1 .hero1text1 {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 1.25rem;
+    font-style: italic;
+    font-weight: 400;
+    line-height: normal;
+    text-wrap: nowrap;
+    position: absolute;
+    margin-top: 17.69rem;
+    margin-left: 9.44rem;
+    margin-right: 76rem;
+    margin-bottom: 34.19rem;
+}
+
+.hero1 .hero1text2 {
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 3.4375rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 3.125rem;
+    margin-top: 20.38rem;
+    margin-bottom: 20.38rem;
+    margin-left: 9.44rem;
+    margin-right: 65.19rem;
+    position: absolute;
+    text-wrap: nowrap;
+}
+
+.hero1 .hero1text2 span {
+    color: #67FF20;
+    font-family: Roboto;
+    font-size: 3.4375rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 3.125rem;
+}
+
+.hero1 .hero1text3 {
+    width: 36.5625rem;
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.875rem;
+    margin: 34.19rem 63.44rem 17.25rem 9.44rem;
+    text-wrap: nowrap;
+    position: absolute;
+}
+
+.hero1button {
+    border-radius: 1.625rem;
+    background: var(--verde, #67FF20);
+    box-shadow: 0px -1px 34px 0px #67FF20;
+    display: inline-flex;
+    padding: 0.8125rem 1.625rem;
+    justify-content: center;
+    align-items: center;
+    gap: 0.6875rem;
+    position: absolute;
+    margin: 40.69rem 83.5rem 11.19rem 11.06rem;
+    text-wrap: nowrap;
+}
+
+.hero1button a {
+    color: #0A0A0A;
+    font-family: Roboto;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-decoration: none;
+}
