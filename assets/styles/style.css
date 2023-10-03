@@ -11,13 +11,12 @@ body {
 .hero1 {
     background: url(../images/hero1bg.jpg);
     background-repeat: no-repeat;
-    margin: -80px 0px 125px 169px;
+    margin: -80px 0px 125px 0px;
     width: 1920px;
     height: 1080px;
     flex-shrink: 0;
     max-width: 100%;
     flex-shrink: 0;
-    background-size: cover;
     box-sizing: border-box;
 }
 
