@@ -14,7 +14,7 @@ body {
     margin: 2.38rem 0rem 7.81rem 10.56rem;
     width: 109.4375rem;
     height: 58.75rem;
-    max-width: 100%;
+    max-width: 100vw;
     flex-shrink: 0;
     background-size: cover;
     box-sizing: border-box;
