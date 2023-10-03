@@ -14,6 +14,7 @@ body {
     margin: 2.38rem 0rem 7.81rem 10.56rem;
     width: 109.4375rem;
     height: 58.75rem;
+    max-width: 100%;
     flex-shrink: 0;
     background-size: cover;
     box-sizing: border-box;
@@ -28,10 +29,7 @@ body {
     line-height: normal;
     text-wrap: nowrap;
     position: absolute;
-    margin-top: 17.69rem;
-    margin-left: 9.44rem;
-    margin-right: 76rem;
-    margin-bottom: 34.19rem;
+    margin: 17.69rem 76rem 34.19rem 9.44rem;
 }
 
 .hero1 .hero1text2 {
@@ -41,10 +39,7 @@ body {
     font-style: normal;
     font-weight: 700;
     line-height: 3.125rem;
-    margin-top: 20.38rem;
-    margin-bottom: 20.38rem;
-    margin-left: 9.44rem;
-    margin-right: 65.19rem;
+    margin: 20.38rem 65.19rem 20.38rem 9.44rem;
     position: absolute;
     text-wrap: nowrap;
 }
@@ -87,7 +82,7 @@ body {
     transition: 0.5s;
 }
 
-.hero1button:hover{
+.hero1button:hover {
     box-shadow: 0px -1px 34px 0px #67FF20;
     scale: 105%;
 }
